@@ -112,7 +112,7 @@ client.on("message", (msg)=>{
     }
 });
 
-if (OPTIONS.token===""){ 
+if (OPTIONS.token===""||OPTIONS.token==="Put your TOKEN here"){ 
   rl.question("Remember to go to settings.json and put your id and a prefix in it.\nIf you can paste it try right clicking to paste.\nPlease enter a discord token to login: ", (answer)=>{
     client.login(answer)
   })
