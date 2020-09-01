@@ -1,0 +1,47 @@
+-- Guild List --
+1. Name: bot_test, ID: 734866691795714108
+2. Name: That Coding Server, ID: 732075592618344468
+3. Name: the new dank meme discord server, ID: 697262795015847956
+4. Name: Code Red Community, ID: 725654316354109480
+5. Name: Robux Giveaways [Deleted], ID: 597245313186660385
+6. Name: Rust, ID: 560127830160048128
+7. Name: Robuc giveaways WAITING, ID: 748713683483623524
+8. Name: churro world, ID: 748635322539311194
+9. Name: Gunshock, ID: 703752802949922896
+10. Name: RusstyServer, ID: 663116181594701875
+11. Name: Agamer0903's official server o' fun (fun and bots 2), ID: 683104296740454411
+12. Name: Discord Bot List, ID: 264445053596991498
+13. Name: MINECRAFT, ID: 302094807046684672
+14. Name: Discord Developers, ID: 613425648685547541
+15. Name: boiled chicken, ID: 562069269186347030
+16. Name: Eden, ID: 369960568913788929
+17. Name: Roblox Game Logging, ID: 658350598407847966
+18. Name: Big Big Chungus Fan Club!, ID: 744896315762278441
+19. Name: StyLiS Studios, ID: 187017643448991745
+20. Name: Hidden Network, ID: 637715419129446431
+21. Name: Bots on Discord, ID: 446425626988249089
+22. Name: Epic Server, ID: 598998131925057541
+23. Name: Unofficial Roblox Raid Server, ID: 583450682162544643
+24. Name: Hey there, ID: 587564829812981791
+25. Name: AlphaCraft, ID: 626575179279237140
+26. Name: poop machine, ID: 686297819119747109
+27. Name: Russty's Server, ID: 748567437368361032
+28. Name: Evaera's Imaginary Menagerie, ID: 425800792679645204
+29. Name: The Elephant Studio, ID: 480450677198422016
+30. Name: AGAMER Inc., ID: 742054399177916427
+31. Name: CodingBay - JavaScript Web Developers Programming 🔥, ID: 649295520786808845
+32. Name: cup, ID: 658482345745186816
+33. Name: elepant server, ID: 735226591868878898
+34. Name: Cool's server, ID: 692844739241967636
+35. Name: house, ID: 746070517160869960
+36. Name: SCPF || Special Containment Procedures Foundation, ID: 270544183935107072
+37. Name: 5 invites = 20k Robux, ID: 678821904240476174
+38. Name: Robux Giveaways [NEW], ID: 748966467004792960
+39. Name: The String Library, ID: 664979811898490888
+40. Name: Dank Memer Support, ID: 470337009886429194
+41. Name: Garry's Mod, ID: 565105920414318602
+42. Name: Scp.Gaming, ID: 740349264206495839
+43. Name: The Bois, ID: 645417885522722816
+44. Name: Epic Memers, ID: 653721825754480654
+45. Name: dankdoggo kahoot live, ID: 633359911325138946
+46. Name: HaX Netlify, ID: 678767764915093514
