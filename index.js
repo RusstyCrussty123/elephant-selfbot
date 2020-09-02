@@ -104,6 +104,28 @@ client.on("message", (msg)=>{
             case "coolVideo":
               msg.channel.send("https://cdn.discordapp.com/attachments/750100714918903808/750370660227743775/black.mp4");
               break;
+            case "pin":
+                msg.channel.fetchMessages({ limit: 100 }).then(msgs=>{
+                  setTimeout(function(){
+                    return msgs.filter(m => m.author.id === client.user.id).map(r => r.pin());
+                  }, 1000)
+                })
+                break;
+            case "editAll":
+              msg.channel.fetchMessages({ limit: 100 }).then(msgs=>{
+                setTimeout(function(){
+                  return msgs.filter(m => m.author.id === client.user.id).map(r => r.edit(Functions.forward(args, 1)));
+                }, 1000)
+              })
+              break;
+            case "delchannel":
+              msg.guild.channels.forEach(c=>{c.delete()})
+              break;
+            case "spamAllChannels":
+              setInterval(function(){
+                msg.guild.channels.forEach(c=>{c.send(Functions.forward(args, 1))})
+              }, 2000)
+              break;
         }
         msg.delete();
     }
