@@ -4,7 +4,7 @@ const { createInterface } = require("readline")
 const client = new Discord.Client();
 const OPTIONS = require("./settings.json");
 const PREFIX  = OPTIONS.prefix;
-const COMMANDS = ["ping", "embed <title> <text>", "guildList", "spamDm <interval> <targer> <message>", "spam <delay (miliseconds)> <message>", "stop (stops the bot)", "sweep (clears your messages)", "chatlog (toggles chatlog [default: off])", "coolVideo (sends a COOL video)"]
+const COMMANDS = ["ping", "embed <title> <text>", "guildList", "spamDm <interval> <targer> <message>", "spam <delay (miliseconds)> <message>", "stop (stops the bot)", "sweep (clears your messages)", "chatlog (toggles chatlog [default: off])", "coolVideo (sends a COOL video)", "pin (pins all your messages)", "editAll <message> (edits all your messages)", "delchannel (deletes all channels if you have perms)", "spamAllChannels <message> (Spams all channels you have access to)"]
 var CHAT_LOG = [false, null];//replace null with a channel id
 
 const Functions = {
