@@ -29,4 +29,4 @@ Use the run.bat file or in command prompt run ``node .`` or ``node index.js`` in
 
 -Rusty
 
-(Youtube Tutorial)[https://www.youtube.com/watch?v=fEotS8Wb8zs]
+https://www.youtube.com/watch?v=fEotS8Wb8zs - Youtube Tutorial
