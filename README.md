@@ -28,3 +28,5 @@ If you wish to login to multiple accounts with your bot follow these steps:
 Use the run.bat file or in command prompt run ``node .`` or ``node index.js`` in the selfbots directory.
 
 -Rusty
+
+(Youtube Tutorial)[https://www.youtube.com/watch?v=fEotS8Wb8zs]
