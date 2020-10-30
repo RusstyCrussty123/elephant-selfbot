@@ -196,5 +196,8 @@ if (!OPTIONS.id===""){
     client.login(OPTIONS.token);
   })
 }
-// this was written by elepantman
-// rusty
+
+/* ---------
+  Credits to RusstyCrussty for writing this.
+  :))
+*/
