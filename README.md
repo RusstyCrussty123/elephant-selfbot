@@ -3,6 +3,12 @@
 Just a simple selfbot that is still being updated.
 It is ran on nodejs.
 
+## Disclaimer:
+I do not update this anymore and I don't feel like updating it anymore.
+In the future I will probably remake this but for now I won't update this.
+**I have been told this does not work. This could be because discord updated there api and patched selfbots. I am not sure.**
+I haven't updated this in a long time so it could not work anymore.
+
 ## How to setup:
 
 To setup the selfbot all you need to do is go to settings.json 
